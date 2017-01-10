@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 body, html {
 	color: #000;
 	font-family: tahoma, 'Microsoft yahei', 'Hiragino Sans GB', 'Hiragino Sans GB W3', HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -20,7 +20,7 @@ body, span, label, p, h1, h2, h3, h4, h5, h6, a, div, li, dt, dd, i, em, section
 	background-size: 100% !important;
 }
 body{
-	background-color: #f1f1f1;
+	background-color: #f5f5f5;
 	padding: 10px;
 	padding-bottom: 50px;
 }
