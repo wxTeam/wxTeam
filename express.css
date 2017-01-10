@@ -20,14 +20,13 @@ body, span, label, p, h1, h2, h3, h4, h5, h6, a, div, li, dt, dd, i, em, section
 	background-size: 100% !important;
 }
 body{
-	background-color: #f2f2f2;
+	background-color: #f3f3f3;
 	padding-bottom: 50px;
 }
 li {
 	list-style: none;
 	-webkit-tap-highlight-color: transparent;
 	-webkit-user-select: none;
- 
 }
 a {
 	color: #fff;
